@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InformationEntry</string>
+    <string name="name">Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">User Name</string>
+    <string name="e_mail">Email</string>
+    <string name="password">Password</string>
+    <string name="re_password">Re Password</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="button_register">Register</string>
+    <string name="button_information">Information</string>
+
+</resources>
